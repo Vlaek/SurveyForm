@@ -58,13 +58,19 @@ label, .item p {
 
   margin-top: 10px;
   margin-bottom: 30px;
-  padding-left: 10px;
 
   font: inherit;
   font-size: 18px;
   letter-spacing: inherit;
   word-spacing: inherit;
+  
+  box-sizing:content-box;
+  -ms-box-sizing:content-box;
+  -moz-box-sizing:content-box;
+  -webkit-box-sizing:content-box;
 }
+
+
 
 .form-control:focus, .form-control:active,
 select:focus, select:active,
