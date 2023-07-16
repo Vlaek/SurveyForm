@@ -1,3 +1,2 @@
-# SurveyForm
-
-- freeCodeCamp [project](https://vlaek.github.io/SurveyForm/)
+# Описание
+[SurveyForm](https://vlaek.github.io/SurveyForm/) - это простой пет-проект, созданный на основе задания FreeCodeCamp. Этот проект представляет собой форму опроса, написанную на HTML и стилизованную с помощью CSS. SurveyForm - отличный способ начать свой путь в веб-разработке и создать свою первую форму.
